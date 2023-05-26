@@ -7,6 +7,7 @@ $GLOBALS['localisation'] = [
     , 'upload_file' => 'Envoyer le fichier'
     , 'drop_a_file' => 'Déposer un fichier'
     , 'get_a_file' => 'Récupérer un fichier'
+    , 'in_about' => 'Bienvenue sur la page d info de cloud 23'
   ],
   'en' => [
     'download' => 'Download'
@@ -15,6 +16,7 @@ $GLOBALS['localisation'] = [
     , 'upload_file' => 'Upload file'
     , 'drop_a_file' => 'Drop a file'
     , 'get_a_file' => 'Get a file'
+    , 'in_about' => 'Welcome to the cloud 23 info page'
   ]
 ];
 
