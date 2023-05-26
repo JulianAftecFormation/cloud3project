@@ -1,8 +1,14 @@
 <?php
 $GLOBALS['culture'] = empty($GLOBALS['culture']) ? 'en' : $GLOBALS['culture'];
 require_once dirname(__DIR__).'/localisation.req.php';
+require_once dirname(__DIR__).'/logme.php';
 ?>
+
+<title>CLOUD3</title>
+<link rel="icon" href="../resource/favicon.ico">
+<meta name="description" content="Bienvenue sur le CLOUD3">
 <meta charset="UTF-8">
+
 <link rel="stylesheet" href="../theme1.css">
 <body>
 

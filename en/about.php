@@ -7,6 +7,6 @@ require_once dirname(__DIR__).'/localisation.req.php';
 
 <body>
     <header>
-        <h1><?= local('in_about') ?></h1>
+        <h1><?= local('about_entry') ?></h1>
     </header>
 </body>
