@@ -2,6 +2,7 @@
 $GLOBALS['culture'] = empty($GLOBALS['culture']) ? 'en' : $GLOBALS['culture'];
 require_once dirname(__DIR__).'/localisation.req.php';
 ?>
+<meta charset="UTF-8">
 <link rel="stylesheet" href="../theme1.css">
 <body>
 
@@ -28,3 +29,9 @@ require_once dirname(__DIR__).'/localisation.req.php';
 		<a href="google.com">test</a>
 	</div>
 </section>
+
+<footer>
+	<div class="supramk4">
+		<a href="./about.php"><?= local('about_first') ?></a>
+	</div>
+</footer>
