@@ -22,3 +22,8 @@ require_once dirname(__DIR__).'/localisation.req.php';
 		<button class="cld__dwl_cmd"><?= local('download') ?></button>
 	</div>
 </form>
+<section>
+	<div class="onebutton">
+		<a href="google.com">test</a>
+	</div>
+</section>
