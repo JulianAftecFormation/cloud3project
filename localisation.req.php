@@ -1,4 +1,4 @@
-<?php // writed by Benjamin EG0N
+<?php // writed by Benjamin EG0N and Modified by Julian VIEIRA GEBCZYNSKI
 $GLOBALS['localisation'] = [
   'fr' => [
     'download' => 'Télécharger'
